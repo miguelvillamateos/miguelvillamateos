@@ -1,5 +1,12 @@
-### Hi there 👋
-
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
+![image](https://img.shields.io/badge/Dart-00599C?style=for-the-badge&logo=dart&logoColor=white)
+![image](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=openjdk&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white)
+![image](https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)
+<!--![image](https://img.shields.io/badge/Flutter-00599C?style=for-the-badge&logo=flutter&logoColor=white) -->
 <!--
 **miguelvillamateos/miguelvillamateos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
