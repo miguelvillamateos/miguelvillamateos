@@ -1,4 +1,4 @@
-![image](https://github-readme-stats.vercel.app/api?username=miguelvillamateos&show_icons=true&locale=es&theme=dark&hide=commits)
+![image](https://github-readme-stats.vercel.app/api?username=miguelvillamateos&show_icons=true&locale=es&theme=dark&hide=commits&rank_icon=default&hide_title=true)
 
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
