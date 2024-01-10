@@ -15,6 +15,10 @@
 ![image](https://img.shields.io/badge/Sass-008800?style=for-the-badge&logo=sass&logoColor=white)
 
 
+![image](https://img.shields.io/badge/Android-007878?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Linux-007878?style=for-the-badge&logo=linux&logoColor=white)
+![image](https://img.shields.io/badge/Windows-007878?style=for-the-badge&logo=windows&logoColor=white)
+
 
 <!--
 **miguelvillamateos/miguelvillamateos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
