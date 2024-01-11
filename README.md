@@ -12,6 +12,7 @@
 
 ![image](https://img.shields.io/badge/CSS3-008800?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Flutter-008800?style=for-the-badge&logo=flutter&logoColor=white) 
+![image](https://img.shields.io/badge/MySQL-008800?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Node.js-008800?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-008800?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/Sass-008800?style=for-the-badge&logo=sass&logoColor=white)
@@ -20,3 +21,7 @@
 ![image](https://img.shields.io/badge/Android-007878?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/Linux-007878?style=for-the-badge&logo=linux&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-007878?style=for-the-badge&logo=windows&logoColor=white)
+
+![image](https://img.shields.io/badge/Android_Studio-666666?style=for-the-badge&logo=android-studio&logoColor=white)
+![image](https://img.shields.io/badge/apache%20netbeans-666666?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-666666?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
