@@ -20,6 +20,7 @@
 ![image](https://img.shields.io/badge/jQuery-008800?style=for-the-badge&logo=jquery&logoColor=white)
 ![image](https://img.shields.io/badge/Jupyter-008800.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-008800?style=for-the-badge&logo=laravel&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-008800?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![image](https://img.shields.io/badge/material%20design-008800?style=for-the-badge&logo=material%20design&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-008800?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-008800?style=for-the-badge&logo=dotnet&logoColor=white)
