@@ -1,5 +1,9 @@
 ![image](https://github-readme-stats.vercel.app/api?username=miguelvillamateos&show_icons=true&locale=es&theme=dark&hide=commits&rank_icon=default&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+<details>
+
+<summary>Lenguajes, tecnologías y entornos de trabajo</summary>
+
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white)
@@ -42,5 +46,7 @@
 ![image](https://img.shields.io/badge/Android_Studio-666666?style=for-the-badge&logo=android-studio&logoColor=white)
 ![image](https://img.shields.io/badge/apache%20netbeans-666666?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-666666?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</details>
 
 ### [Apuntes](https://github.com/miguelvillamateos/miguelvillamateos/wiki/Inicio)
