@@ -1,4 +1,4 @@
-![image](https://github-readme-stats.vercel.app/api?username=miguelvillamateos&show_icons=true&locale=es&theme=dark&hide=commits&rank_icon=default&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 <details>
 
