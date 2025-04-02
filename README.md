@@ -48,5 +48,3 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-666666?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </details>
-
-### [Apuntes](https://github.com/miguelvillamateos/miguelvillamateos/wiki/Inicio)
